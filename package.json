@@ -1,0 +1,15 @@
+{
+  "name": "reginald",
+  "version": "0.0.0",
+  "description": "Reginald Slack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alex",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.x.x",
+    "express": "^4.10.6"
+  }
+}
